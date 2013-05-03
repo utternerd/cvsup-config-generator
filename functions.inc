@@ -1,11 +1,7 @@
 <?
 /*
-	Procedures live here.
+	Functions live here.
 */
-
-function errout() {
-   die("Eek!");
-}
 
 // Take an array of key/value pairs, and turn it into "options" drop down list.
 function createDropDownList($arr) {
